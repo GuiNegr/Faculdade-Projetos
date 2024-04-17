@@ -1,0 +1,16 @@
+toda vez que for criar um atributo limitado colocar ele static
+
+metodos static não precisam de objetos para ser chamados podem ser chamados só pela classe
+metodos não static precisam que inicia um objetos
+
+quando utilziamos o modificador final ele se torna uma constante, e não pode ser alterado durante o tempo de execução
+
+sobrecarga tenho um metodo 
+
+HERANÇA
+
+EM JAVA NÃO PERMITE HERANÃ MULTIPA APENAS UMA, POREM VOCE CONSEGUE UTILZIAR UMA INTERFACE PARA CONSEGUIR TER DUAS CLASSES
+
+TODAS AS CLASSES EM JAVA PERTENCE A SUPERCLASSE OBJECT
+
+referencia super e uma referencia par auma superclasse, pode apontar atributo ou metodos

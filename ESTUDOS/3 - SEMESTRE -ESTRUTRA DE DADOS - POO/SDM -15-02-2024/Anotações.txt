@@ -1,0 +1,15 @@
+o var pode ser chamado de qualquer parte do codigo, e o let em funções definidas
+var e um escopo fora de bloco.
+
+const e let sao travados dentro do escopo
+
+const nao posso trocar o tipo depois de definido
+
+em arrays no js posso ter qualquer coisa dentro
+
+quando usar um array em java sempre tratar oque vai entrar nele pois o array
+aceita qualquer coisa.
+
+craze em js sao operadores de interpolaçãco
+
+for in trabalha melhor com variaveis complexas

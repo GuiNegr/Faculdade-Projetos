@@ -1,0 +1,5 @@
+sobrecarga e o ato de sobreescrever a funçao com outros metodos
+
+sobrescrita sobrescreve metodos utilizados em superclasses para modficialos, exemplo a modificação do tostring que utilizamos na aula de estrutura de dados 
+
+polimorfismo

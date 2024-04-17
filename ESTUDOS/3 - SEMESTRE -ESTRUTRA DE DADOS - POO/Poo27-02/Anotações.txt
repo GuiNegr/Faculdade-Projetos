@@ -1,0 +1,6 @@
+ATRIBUTOS STATIC SÃO UTILIADOS QUANDO VOCE TEM UM ATRIBUTO COM VALOR LIMITE
+
+METODOS STATIC SÃO UTILIZADOS PARA COMPRIR TAREFAS INDEPENDETE DE VALORES PASSADOS criando metodos static posso chamar ele sem a necessidade de criar objetos
+
+
+public modificador de acesso de visibiliade tb conhecido como encapsulamento

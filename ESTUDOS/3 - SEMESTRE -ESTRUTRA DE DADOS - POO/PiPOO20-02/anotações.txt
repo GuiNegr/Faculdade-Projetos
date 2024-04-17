@@ -1,0 +1,44 @@
+onde o construcot e aplicado?
+o construtor ele e criado como padrao ao instanciar uma classe porem vc pode criar uma para obrigar o usuario a instanciar um valor ao iniciar o programa
+
+repare
+ 
+Pessoa João = new Pessoa(nome,idade,endereço);
+
+
+New pessoa()// o paramentro apos pessoa deve ser insantciado caso há um construtor na classe definida nesse objeto
+
+  public Pessoa (String n , int i, String e ){ // aonde o construtor vai ser criado efetivamente para utilizarmmos
+    SetNome(n);
+    SetIdade(i);
+    SetEndereço(e);
+    }
+
+construtores não possui nenhum tipo de retorno NEM MESMO VOID
+
+construtores obriga que o usuario escreva exatamente oque e pedido sem possibilidade de tirar ou aumentar coisas adicionadas "Segue exemplo Pessoa,TestePessoa"
+
+PESQUISAR SOBRECARGA DE construtores;
+
+ Object[] ArrayObject = {João,Maria};
+        
+        for (Object object : ArrayObject) {
+            System.out.println(object);
+        }
+
+        pesquisar sobre metodo to string para essa questão;
+
+Pesquisar sobre o metodo de variavel Protected;
+
+O encapsulamento serve para conseguir proteger as variaveis de usos como;
+como encapsulamento são representados em diagramas de classes, e definições para uso
+
++ = public significa q os atributos e os metodos pode ser acessado por qualuqer outra classe. EX: public String nome;
+
+- = private, significa q os atributos e metodos não podem ser acessado por outra classe exeto ela mesmo. EX: private String nome;
+
+# = Com o modificador 'protected', os atributos e métodos são acessíveis somente na própria classe, em classes derivadas e em classes do mesmo pacote. EX: Protected String nome;
+
+default atributos e metodos ou classe estao acessiveis apenas no mesmo pacote
+
+Getter são metodos de leituras utilizados para o encapsulamento NÃO É obrigatorio porem uma boa pratica a ser utilizadas

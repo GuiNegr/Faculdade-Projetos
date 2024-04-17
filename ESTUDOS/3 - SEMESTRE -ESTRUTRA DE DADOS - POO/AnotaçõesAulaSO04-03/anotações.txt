@@ -1,0 +1,36 @@
+inicialização do putty
+-abra o aws learner lab, execute uma instancia clique na aws verde
+abra a instancia inicie uma nova clique em nao chvave, ligue
+
+clique em conectar
+abra o putty e copie apartir do ubunto na pag e cole no puttyacesse o ssh auth certicades e coloque o appp baixado na primeira pag aonde apareceu o simbolo verde
+
+
+SIGNIFICAOD:
+
+~
+-SIGNIFCA HOME
+
+QUNADO VEMOS NA UTILIZAÇÃO DE UM TERMINAL
+
+arquivos com . antes ele fica oculto
+
+GUILHERME@GUIMERLE-SERVER
+no lado esquerdo ta o nome usuario, apatir do @ fica o local aonde está hospedado este usuario
+
+
+COMANDOS
+DATE - PARA VER A DATA
+HOSTNAMECTL - VER AS INFORMAÇÕES DO HOST
+W- VER QM ESTÁ CONECTADO
+WHOAIM - FALA QUEM E VOCE KK
+CLEAR - LIMPA O TERMINAL
+who- ver quem esatá logado e que horas logou
+pwd - pathing working directory ver o caminho aonde esta trabalhando
+cd- change directory para trocar a direção 
+        - cd .. se vai para uma pastar anteriror
+ls - lista de serviço
+man - ve o manual do comando utilizado
+-- help para ver parametros do comando
+sudo mandb -c - força a contrução ou recosntrução do banco de dados
+-k key world para buscar palavras chaves

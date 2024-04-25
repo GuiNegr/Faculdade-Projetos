@@ -1,4 +1,5 @@
-public class ListaEncadeada<T> {
+public class
+ListaEncadeada<T> {
 
     private No inicio;
     private No fim;

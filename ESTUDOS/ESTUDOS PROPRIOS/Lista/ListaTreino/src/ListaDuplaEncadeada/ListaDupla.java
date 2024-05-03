@@ -14,9 +14,9 @@ public class ListaDupla <T>{
             size++;
         }
         else {
-            No aux = new No<>(head);
+            No aux = head;
             while(aux.getProximo() != null){
-                aux.setProximo(aux);
+                aux = aux.getProximo();
             }
             aux.setProximo(novo);
             novo.setAnterior(aux);

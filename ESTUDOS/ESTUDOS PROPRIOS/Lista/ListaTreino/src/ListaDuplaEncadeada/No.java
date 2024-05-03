@@ -35,14 +35,4 @@ public class No <T>{
 
 
 
-    @Override
-    public String toString() {
-        String prev = anterior != null ? anterior.getDados().toString() : "null";
-        String next = proximo != null ? proximo.getDados().toString() : "null";
-        return "No{" +
-                "dados=" + dados +
-                ", anterior=" + prev +
-                ", proximo=" + next +
-                '}';
-    }
 }

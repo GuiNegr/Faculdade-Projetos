@@ -6,12 +6,14 @@ public class Main {
         RaizNo reggaeroot = new RaizNo();
         int i = jrv.nextInt(200);
 
-        for(;i> 0; i--){
-            int a = jrv.nextInt(1000);
-            reggaeroot.insertNo(a);
-        }
+        reggaeroot.insertNo(10);
+        reggaeroot.insertNo(5);
+        reggaeroot.insertNo(15);
+        reggaeroot.insertNo(3);
+        reggaeroot.insertNo(7);
+        reggaeroot.insertNo(20);
 
-        reggaeroot.inorder();
+        reggaeroot.preoderTraversal();
 
     }
 }

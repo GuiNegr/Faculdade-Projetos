@@ -9,16 +9,15 @@ public class Main {
         exibir();
         loop();
         System.out.println("BY GuiNegreiros");
-
-
     }
 
     public static void loop() {
         boolean continuar = true;
 
         do {
-            jogada();
             jogadaBot();
+            jogada();
+
             if (check()){
                 System.out.println("PARABENS VOCÊ GANHOU DA CASA!!!!");
                 continuar = false;
@@ -98,8 +97,8 @@ public class Main {
         Random rand = new Random();
         boolean continuar = true;
         do {
-            int a = rand.nextInt(2);
-            int b = rand.nextInt(2);
+            int a = rand.nextInt(0, 3);
+            int b = rand.nextInt(0, 3);
             if (tabuleiro[a][b].equals(" # ")) {
                 tabuleiro[a][b] = " 0 ";
                 System.out.println();
@@ -126,7 +125,7 @@ public class Main {
                     break;
                 }
             } catch (Exception e) {
-                //Só para utilizar o try Catch
+                //só para utilizar o try catch
             }
 
         }

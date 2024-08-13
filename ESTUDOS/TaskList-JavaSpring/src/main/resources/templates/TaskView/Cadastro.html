@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+    <link rel="stylesheet" href="../../static/Father.css">
+</head>
+<body>
+        <!--Criação da NavBar-->
+        <div class="DivWithNav">
+            <nav>
+                <ul>
+                    <li><a href="/Cadastro">Cadastro</a></li>
+                    <li><a href="/">Home</a></li>
+                </ul>
+            </nav>
+    </div>
+    
+<div class="inputsDiv">
+    <form action="">
+        <label for="taskName">Nome da tarefa</label>
+        <input type="text" id="taskName" name="taskName" placeholder="Task Name">
+        <br>
+
+        <label for="taskDesc">Descrição da tarefa</label>
+        <input type="text" id="taskDesc" name="taskDesc" placeholder="taskDesc">
+        <br>
+    
+        <label for="taskStatus">Estado da tarefa</label>
+        <select id="taskStatus" name="taskStatus">
+          <option value="Concluido">Concluido</option>
+          <option value="Inicializado">Inicializado</option>
+          <option value="construindo">construindo</option>
+        </select>
+        <br>
+        
+        <button type="submit">Enviar</button>
+    </form>
+</div>
+</body>
+</html>

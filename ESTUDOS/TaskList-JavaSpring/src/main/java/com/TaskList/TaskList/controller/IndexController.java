@@ -11,8 +11,5 @@ public class IndexController {
         return "index";
     }
 
-    @RequestMapping("/static/Cadastro")
-    public String cadastro(){
-        return "Cadastro";
-    }
+
 }

@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "96dff21aa7548094",
+    "type": "split",
+    "children": [
+      {
+        "id": "8268c0f8f50714e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8e1e8cc9a8e717b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API E REST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06c3254f2af9acaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "277efb84e5a91dcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6185d7ded8594288",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32288d749b0798fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c98c21650f7fb17d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6ab4b0dc5f27fbc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd342d97a1107398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eb56f0caed9fd50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "API E REST.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64843f625ed71e1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "API E REST.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbb646064f3d2a1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4bb6490bf098298e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "API E REST.md"
+              }
+            }
+          },
+          {
+            "id": "6ec7ef9ba6ff77b9",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 488.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open CHATGPT": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c8e1e8cc9a8e717b",
+  "lastOpenFiles": [
+    "API E REST.md",
+    "The News.md",
+    "Estatisca-e-Probabilidade/Aula 03-09.md",
+    "Estatisca-e-Probabilidade",
+    "Primeiro Projeto Spring.md",
+    "Spring.md",
+    "PI/PROJETO INTEGRADOR SENAC!.md",
+    "Arquitetura de software/Arquitetura de Software.md",
+    "Arquitetura de software/Soli.md",
+    "Arquitetura de software/MVC AULA 28-08.md",
+    "REST-SPRING/REST.md",
+    "4 Semestre.md",
+    "Pasted image 20240823131454.png",
+    "PI",
+    "Arquitetura de software/GuiBank.md",
+    "REST-SPRING/URI-URL-URN.md",
+    "REST-SPRING/WEB SERVICE.md",
+    "REST-SPRING",
+    "Arquitetura de software"
+  ]
+}
